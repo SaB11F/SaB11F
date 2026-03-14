@@ -1,7 +1,5 @@
 # 💫 About Me:
 Hi, I'm Rene<br><br>Full-Stack Software Engineer building production-ready MERN and AI-integrated backend systems.<br><br>🔭 I’m currently working on<br>AI-powered backend systems and scalable MERN applications.<br><br>🤝 I’m looking to collaborate on<br>AI-driven products, backend architecture, and full-stack SaaS projects.<br><br>🌱 I’m currently learning<br>Advanced system architecture and scalable backend design.<br><br>💬 Ask me about<br>RAG systems, pgVector, MERN stack, AI integration.<br><br>⚡ Fun fact<br>I build both software and hardware-integrated systems.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/renekolednik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rene Kolednik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rene.kolednik@gmail.com) 
 
